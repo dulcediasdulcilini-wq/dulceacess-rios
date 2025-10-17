@@ -1,2 +1,2 @@
-# dulceacess-rios
+# dulceacessorios
 Minha loja de acessórios online
